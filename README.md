@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Kyungjin-Hwang/Kyungjin-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me llamo Kyungjin Hwang, soy estudiante de universidad de Corea. 
+🌱 Estudio lingüística española, especialmente, me interesa la lingüística computacional o PLN(Procesamiento de Lenguaje Natural). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Institute & E-mail
+<img src="https://img.shields.io/badge/Korea University-B40404?style=flat-square&logo=Institute&logoColor=white"/>
+<img src="https://img.shields.io/badge/kjhwang0624@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+
+#### ⚡Plataforma(Platform) / Técnica (Technique)
+<img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-848484?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+ 
+
+#### 😄 Tesis(Thesis)
+El cambio de código entre español e inglés observado en Twitter. Asociación Coreana de Hispanistas, 2021, vol. 98, p. 95-118.
