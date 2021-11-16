@@ -4,7 +4,7 @@
 Me llamo Kyungjin Hwang, soy estudiante de universidad de Corea. 
 🌱 Estudio lingüística española, especialmente, me interesa la lingüística computacional o PLN(Procesamiento de Lenguaje Natural). 
 
-<a href="https://www.linkedin.com/in/kyungjin-hwang-0624/" target="_blank"><img src="https://img.shields.io/badge/Linked In-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+https://www.linkedin.com/in/kyungjin-hwang-0624/
 
 ### 📫 Institute & E-mail
 <img src="https://img.shields.io/badge/Korea University-B40404?style=flat-square&logo=Institute&logoColor=white"/>
