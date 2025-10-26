@@ -14,6 +14,3 @@ https://www.linkedin.com/in/kyungjin-hwang-0624/
 ### ⚡Plataforma(Platform) / Técnica (Technique)
 <img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-848484?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
  
-
-### 😄 Tesis(Thesis)
-El cambio de código entre español e inglés observado en Twitter. Asociación Coreana de Hispanistas, 2021, vol. 98, p. 95-118.
