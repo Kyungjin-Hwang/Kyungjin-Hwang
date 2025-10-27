@@ -33,7 +33,7 @@
   *(DOI 10.21811/EH.116.173)*
 
 - **Latin American Conflicts News Map Data** — Data-driven visualization of social and political conflicts across Latin America.  
-  *(See [related repository](https://github.com/kyungjin-hwang/latin-american-conflicts-map) for details.)*
+  *(See [related repository](https://github.com/Kyungjin-Hwang/latin-news-conflicts-map) for details.)*
 
 ---
 
