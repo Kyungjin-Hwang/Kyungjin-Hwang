@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## 👩‍🔬 About the Author
 
 **Kyungjin Hwang, Ph.D.**  
@@ -8,6 +5,7 @@
 📍 Seoul, Republic of Korea  
 📧 **Email:** kjhwang0624@korea.ac.kr  
 🔗 **ORCID:** [0009-0003-0779-6451](https://orcid.org/0009-0003-0779-6451)  
+🔗 **Doctoral Dissertation:** [Korean–Spanish Machine Translation Evaluation Dataset (Ph.D. Thesis)](https://dcollection.korea.ac.kr/public_resource/pdf/000000288099_20251027163213.pdf))  
 
 ---
 
@@ -32,7 +30,7 @@
   *(Developed June–August 2025 with native speaker validation.)*
 
 - **Bolivian Language Policy Database (1976–2012)** — Quantitative and sociopolitical analysis of bilingual education outcomes in Bolivia.  
-  *(Part of ongoing language-policy evaluation research.)*
+  *(DOI 10.21811/EH.116.173)*
 
 - **Latin American Conflicts News Map Data** — Data-driven visualization of social and political conflicts across Latin America.  
   *(See [related repository](https://github.com/kyungjin-hwang/latin-american-conflicts-map) for details.)*
