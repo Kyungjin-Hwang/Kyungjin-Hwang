@@ -1,16 +1,50 @@
 ### Hi there 👋
 
 
-Me llamo Kyungjin Hwang, soy estudiante de universidad de Corea. 
-🌱 Estudio lingüística española, especialmente, me interesa la lingüística computacional o PLN(Procesamiento de Lenguaje Natural). 
+## 👩‍🔬 About the Author
 
-https://www.linkedin.com/in/kyungjin-hwang-0624/
+**Kyungjin Hwang, Ph.D.**  
+*Research Professor, Institute of Hispanic Studies, Korea University*  
+📍 Seoul, Republic of Korea  
+📧 **Email:** kjhwang0624@korea.ac.kr  
+🔗 **ORCID:** [0009-0003-0779-6451](https://orcid.org/0009-0003-0779-6451)  
 
-### 📫 Institute & E-mail
-<img src="https://img.shields.io/badge/Korea University-B40404?style=flat-square&logo=Institute&logoColor=white"/>
-<img src="https://img.shields.io/badge/kjhwang0624@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
-<img src="https://img.shields.io/badge/kjhwang0624@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
+---
 
-### ⚡Plataforma(Platform) / Técnica (Technique)
-<img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-848484?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
- 
+### 🧭 Research Areas
+- **Computational Linguistics & NLP Evaluation** — Designing and evaluating multilingual and region-sensitive metrics for large language models (LLMs), especially focusing on Spanish and Korean.  
+- **Sociolinguistics & Dialectology** — Comparative studies of Spanish regional variation (Spain, Mexico, Chile, Peru, Argentina) and dialectal adaptation in AI-generated language.  
+- **Digital Humanities (DH)** — Corpus design, text alignment, and language-policy data analysis across historical and modern contexts.  
+- **Machine Translation & Cross-lingual Evaluation** — Developing hybrid metrics combining *BERTScore*, fine-tuned semantic similarity, and few-shot alignment for Spanish–Korean translation.  
+- **Data Science for Language** — Building large-scale databases of medieval and contemporary Spanish texts using MySQL, Python, and ETL pipelines.  
+
+---
+
+### 💡 Current Projects
+
+- **LLM with Spanish Variants** — Ongoing study on large language models and Spanish regional variation.  
+  *(Manuscript submitted and currently under peer review.)*
+
+- **13th-Century Spanish Clitics Analysis based on Berceo’s Documents** — A diachronic analysis of clitic placement and syntax in early Spanish texts.  
+  *(Accepted and in press.)*
+
+- **Spanish Dialect Lexicon Project** — A dataset capturing lexical variation across Latin America (2025 version, this repository).  
+  *(Developed June–August 2025 with native speaker validation.)*
+
+- **Bolivian Language Policy Database (1976–2012)** — Quantitative and sociopolitical analysis of bilingual education outcomes in Bolivia.  
+  *(Part of ongoing language-policy evaluation research.)*
+
+- **Latin American Conflicts News Map Data** — Data-driven visualization of social and political conflicts across Latin America.  
+  *(See [related repository](https://github.com/kyungjin-hwang/latin-american-conflicts-map) for details.)*
+
+---
+
+### 🧠 Research Interests (Keywords)
+`#ComputationalLinguistics` `#Sociolinguistics` `#SpanishDialectology`  
+`#MachineTranslation` `#LLMEvaluation` `#DigitalHumanities`  
+`#CrossLingualAnalysis` `#BigDataLinguistics`  
+
+---
+
+> “Language is not only a system of forms, but a reflection of how humans interact, adapt, and create meaning across regions, histories, and technologies.”  
+> — *Kyungjin Hwang*
